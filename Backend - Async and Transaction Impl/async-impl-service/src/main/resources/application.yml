@@ -1,0 +1,22 @@
+#postgres-db
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/personal-practice
+    username: postgres
+    password: LocalApple$#
+  jpa:
+    properties:
+      hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+
+#notification-service-configs
+notification:
+  email:
+    true
+  sms:
+    false
+server:
+  port: 9090
+app:
+  config:
+    dir: /Users/c2220081/Documents/2. E-Label/Properties/

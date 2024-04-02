@@ -1,0 +1,89 @@
+REACT JS SKILLS
+
+
+Skills:
+
+- Proficient in HTML, CSS, JavaScript
+- Strong knowledge of responsive design principles
+- Excellent communication and presentation skills
+- Previous experience in training or teaching
+- Ability to engage and motivate participants
+
+1. Introduction to Web Development and React
+- Building Blocks of Web Application Development
+- Single-page and Multi-page Applications
+- Different Client-side Technologies
+- View Container Architecture
+- Introduction to React
+- Installation of React
+- JSX and its use case
+- DOM
+- Virtual DOM and Its Working
+- ECMAScript
+- Difference between ES5 and ES6
+- NPM Modules
+
+2. Components and Styling the Application Layout
+- React Elements
+- Render Function
+- Components
+- Class Component
+- Component Constructor
+- Functional Components
+- Multiple Components
+- Props
+- Props with Class based Component
+- Props with Function based Component
+- States
+- Component Lifecycle
+- React Events
+- React Forms
+- Different Form Concepts
+- Styling in React
+- Inline Styling
+- CSS Stylesheet
+- Building Music Shop Application using React Components
+
+3. Handling Navigation with Routes
+- Routing
+- React-router
+- Features of React-router
+- Configuration of routing using React-router
+- Navigation using Links
+- 404 page (Not found Page)
+- URL Parameters
+- Nested Routes
+- Implementing styles using NavLink
+- Application Programming Interface
+- Build a REST API using JSON-server
+- API consumption in React application using Fetch method
+- Build a dynamic Music Store application using Routing and API connectivity
+
+4. React State Management using Redux
+- Need of Redux
+- What is Redux?
+- Redux Architecture
+- Redux Action
+- Redux Reducers
+- Redux Store
+- Principles of Redux
+- Pros of Redux
+- NPM Packages required to work with Redux
+- More about React-Redux package
+
+5. Asynchronous Programming with Saga Middleware
+- Need of Async operations
+- Async Workflow
+- Action Creators
+- How to write Action Creators?
+- Handling Async Actions via Reducers
+- Middleware
+- Redux-Saga
+- Generators in Redux-Saga
+- Saga Methods()
+- Major Sections of Redux-Saga
+- Building a Product List application using Redux-Saga Middleware
+- Debugging application using Redux Devtools
+
+6. Unit testing
+- Unit testing with Enzyme and JEST
